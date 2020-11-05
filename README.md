@@ -1,6 +1,6 @@
 # TinderClone
 - I am current working on it **📱 🖥️ 💻** with the help of ***☕***
-- **Home Screen** : ![Home Screen](https://github.com/NacharamSuraj/TinderClone/blob/main/images/1.png = 640x360)
+- **Home Screen** : ![Home Screen](https://github.com/NacharamSuraj/TinderClone/blob/main/images/1.png | width = 360 | height= 640)
 ---
 ---
 - **Login Screen** : ![Login Screen](https://github.com/NacharamSuraj/TinderClone/blob/main/images/2.png = 640x360)
