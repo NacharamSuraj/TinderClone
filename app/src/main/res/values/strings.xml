@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TinderClone</string>
+    <string name="startup_logo_txt">Tinder</string>
+    <string name="startup_btn_login">Log in</string>
+    <string name="startup_btn_signup">Sign up</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="login_btn_text">Login</string>
+    <string name="signup_btn_txt">Sign Up</string>
+</resources>
